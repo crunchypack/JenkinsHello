@@ -12,7 +12,7 @@ public class HelloJenkins {
 	}
 	
 	public static String helloJenkinsAgain() {
-		return "Hello Jenkins again!!!";
+		return "Hello Jenkins again!!! git push 2";
 	}
 
 }
